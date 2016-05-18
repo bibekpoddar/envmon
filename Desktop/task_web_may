@@ -1,0 +1,9 @@
+Interface :- Web and Android .
+
+1) Map coloring (Heat map) assuming a rough diameter.
+
+Device Level :- (display in webpage and alert in android)
+
+	1) Memory usage
+	2) Transmission health -packet loast or recieved.
+	3) Battery health. 
